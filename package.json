@@ -1,0 +1,23 @@
+{
+  "name": "vue-common-component",
+  "version": "0.0.1",
+  "description": "常用vue组件封装，基于Vue 2.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjlicc/vue-common-component.git"
+  },
+  "keywords": [
+    "常用组件",
+    "Vue2.x"
+  ],
+  "author": "licc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjlicc/vue-common-component/issues"
+  },
+  "homepage": "https://github.com/tjlicc/vue-common-component#readme"
+}
